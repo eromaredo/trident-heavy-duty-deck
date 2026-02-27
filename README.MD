@@ -1,7 +1,7 @@
 # Heavy Duty Deck Panel for Voron Trident (Preview)
 
-[!CAUTION]
-I put a lot of effort into keeping all dimensions correct, but I haven't tested it in real life (yet) - only against Voron's official STEP file for a 250mm build and my own 4040 350mm. Please check the dimensions before ordering.
+> [!CAUTION]
+> I put a lot of effort into keeping all dimensions correct, but I haven't tested it in real life (yet) - only against Voron's official STEP file for a 250mm build and my own 4040 350mm. Please check the dimensions before ordering.
 
 ## Overview
 
