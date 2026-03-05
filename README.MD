@@ -13,7 +13,7 @@ All `.dxf` files were generated using the default values from the table below. I
 
 - One mounting plate for the Z motors ensures all of them are level and aligned.
 - Seals the bottom of the chamber, reducing hot air leakage.
-- Two holes near the rear center for PG cable glands, separating high voltage and data cables — left (PG7) for 230V bed power, right (PG13.5) for thermistors, bed fans, CAN cables, etc.
+- Two holes near the rear center for PG cable glands, separating high voltage and data cables — left (PG7) for 230V bed power, right (PG11) for thermistors, bed fans, CAN cables, etc.
 - Two PG7 holes on the rear corners for motor and chamber thermistor cables.
 
 ## BOM
@@ -43,14 +43,13 @@ All parameters with an `_` prefix are internal and I don't recommend changing th
 | screw_m5_number_long | How many M5 screw holes should be added on the left, front and right edges. Recommended `5` for `370 mm` `extrusion_horizontal_length` and one for every additional `50 mm`. | `5`/`6`/`7` |
 | screw_m5_number_short | How many M5 screw holes should be added on both back edges (left and right). `2` for `370 mm` `extrusion_horizontal_length`, `3` for `430mm` and `470 mm`. | `2`/`3` |
 
-## To Do List
-
-- Look for AWD options (holes on the front)
-- Add additional holes on rear right and left corners for motors and chamger thermistors
-
 ## Footnotes
 
-In case of any issues or ideas, open an issue ticket please. The files are distributed under Apache 2.0 licence.
+[Kradex PG cable glands](https://www.kradex.com.pl/product/accessories/d%c5%82awnica?lang=en) were used in this project, so please compare the dimensions. [Here is  direct link](https://www.kradex.com.pl/products/1102/D%C5%82awnica_Dimension_table.pdf) to the dimension table.
+
+The files are distributed under Apache 2.0 licence.
+
+In case of any issues or ideas, open an issue ticket please.
 
 ## Render
 
