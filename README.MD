@@ -14,7 +14,8 @@ All `.dxf` files were generated using the default values from the table below. I
 - One mounting plate for the Z motors ensures all of them are level and aligned.
 - Seals the bottom of the chamber, reducing hot air leakage.
 - Two holes near the rear center for PG cable glands, separating high voltage and data cables — left (PG7) for 230V bed power, right (PG11) for thermistors, bed fans, CAN cables, etc.
-- Two PG9 holes on the rear corners for motor and chamber thermistor cables. These will fit eight AWG24 cables and four thermistors — enough for an AWD setup, motor and corner chamber temperature sensors. See [images](/image/) for visualisation.
+- Two PG9 holes on the rear corners. These will fit sixteen AWG24 cables — enough for one side of an AWD setup, thermistors, and possibly fans. See [images](/image/) for visualisation.
+
 
 ## BOM
 
