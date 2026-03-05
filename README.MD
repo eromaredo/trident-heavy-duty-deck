@@ -13,7 +13,8 @@ All `.dxf` files were generated using the default values from the table below. I
 
 - One mounting plate for the Z motors ensures all of them are level and aligned.
 - Seals the bottom of the chamber, reducing hot air leakage.
-- Two holes for PG cable glands to separate high voltage and data cables — left (PG7) for 230V bed power, right (PG13.5) for motors, thermistors, etc.
+- Two holes near the rear center for PG cable glands, separating high voltage and data cables — left (PG7) for 230V bed power, right (PG13.5) for thermistors, bed fans, CAN cables, etc.
+- Two PG7 holes on the rear corners for motor and chamber thermistor cables.
 
 ## BOM
 
@@ -23,8 +24,8 @@ Assuming deck thickes of 4 mm and utilising DXFs from the repository.
 | ----------------------- | ------ | ------ | ------ |
 | M5x8 BHCS               | 19     | 24     | 27     |
 | M5 Roll in Spring T-Nut | 19     | 24     | 27     |
-| PG 7 Cable Gland        | 1      | 1      | 1      |
-| PG 13.5 Cable Gland     | 1      | 1      | 1      |
+| PG 7 Cable Gland        | 3      | 3      | 3      |
+| PG 11 Cable Gland       | 1      | 1      | 1      |
 
 ## Customisng the design
 
