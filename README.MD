@@ -51,13 +51,13 @@ All parameters with an `_` prefix are internal and I don't recommend changing th
 | Name               | Value   |
 | ------------------ | ------- |
 | _pg7_drill_hole    | 13 mm   |
-| _pg7_outer_diam    | 23 mm   |
+| _pg7_outer_diam    | 25 mm   |
 | _pg9_drill_hole    | 15.5 mm |
-| _pg9_outer_diam    | 27 mm   |
+| _pg9_outer_diam    | 29 mm   |
 | _pg11_drill_hole   | 19 mm   |
-| _pg11_outer_diam   | 30 mm   |
+| _pg11_outer_diam   | 32 mm   |
 | _pg13_5_drill_hole | 21 mm   |
-| _pg13_5_outer_diam | 34 mm   |
+| _pg13_5_outer_diam | 36 mm   |
 
 ## Footnotes
 
